@@ -1,19 +1,6 @@
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
-This is a set of tools that allow you to pull down an archive
-of a gmane repository using the instructions at:
-
-http://gmane.org/export.php
-
-In order not to overwhelm the gmane.org server, I have put up 
-my own copy of the messages at: 
-
-http://mbox.dr-chuck.net/
-
-This server will be faster and take a lot of load off the 
-gmane.org server.
-
 You should install the SQLite browser to view and modify the databases from:
 
 http://sqlitebrowser.org/
@@ -29,7 +16,7 @@ its data in a database and can be interrupted and re-started
 as often as needed.   It may take many hours to pull all the data
 down.  So you may need to restart several times.
 
-To give you a head-start, I have put up 600MB of pre-spidered Sakai 
+To give you a head-start, 600MB of pre-spidered Sakai 
 email here:
 
 https://www.py4e.com/data_space/content.sqlite.zip
